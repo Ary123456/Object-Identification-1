@@ -1,0 +1,66 @@
+body {
+    background-size: cover;
+}
+
+#heading {
+    width: 80%;
+    height: 10%;
+    padding: 10px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#AirConditioner { 
+  width: 500px;
+  height: 52px;
+  background-color: rgb(61, 56, 208);
+  padding: 5px;
+  font-size: 30px;
+  border-radius: 50px;
+}
+
+#Chair{
+    width: 500px;
+    height: 52px;
+    background-color: rgb(61, 56, 208);
+    padding: 5px;
+    font-size: 30px;
+    border-radius: 50px;
+}
+
+#Fan{
+    width: 500px;
+    height: 52px;
+    background-color: rgb(61, 56, 208);
+    padding: 5px;
+    font-size: 30px;
+    border-radius: 50px;
+}
+
+#Lamp{
+    width: 500px;
+    height: 52px;
+    background-color: rgb(61, 56, 208);
+    padding: 5px;
+    font-size: 30px;
+    border-radius: 50px;
+}
+
+#Light{
+    width: 500px;
+    height: 52px;
+    background-color: rgb(61, 56, 208);
+    padding: 5px;
+    font-size: 30px;
+    border-radius: 50px;
+}
+
+#Window{
+    width: 500px;
+    height: 52px;
+    background-color: rgb(61, 56, 208);
+    padding: 5px;
+    font-size: 30px;
+    border-radius: 50px;
+}
+
